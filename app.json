@@ -1,34 +1,32 @@
 {
   "ads": false,
   "free": true,
-  "name": "Nebula",
+  "name": "Glimmer.Ink",
   "theme": "",
-  "contact": "support@nebula.app",
+  "contact": "info@glimmer.scan",
   "stores": {
-    "apple": "https://apps.apple.com/us/app/nebula/id1234567890",
-    "google": "https://play.google.com/store/apps/details?id=com.nebula.app"
+    "apple": "https://apps.apple.com/",
   },
   "description": [
-    "is a powerful and user-friendly navigation app.",
-    "You can easily plan and track your travels through space, whether you're a seasoned astronaut or a space exploration enthusiast.",
-    "With real-time updates and detailed maps, helps you stay on course and reach your destination with ease."
+    "is the ultimate companion app for Disney Lorcana Trading Card Game enthusiasts. Effortlessly scan and catalog your Disney Lorcana cards with our intuitive and powerful card recognition technology. Simply point your camera at a card, and let Glimmer.Ink do the rest!
+    Join the Glimmer.Ink community and elevate your Disney Lorcana Trading Card Game experience!"
   ],
   "features": [
     {
-      "title": "Space Travel",
-      "body": "Plan and track your space travels using detailed maps and real-time updates."
+      "title": "Instant Card Recognition",
+      "body": "Quickly identify and catalog your Disney Lorcana cards with just a scan."
     },
     {
-      "title": "Destination Tracker",
-      "body": "View your current location and track your progress towards your destination."
+      "title": "Foil Card Detection",
+      "body": "Swipe left to mark your special foil cards and distinguish them in your collection."
     },
     {
-      "title": "Journey Alerts",
-      "body": "Set alerts for important events or landmarks along your journey."
+      "title": "Localized Support",
+      "body": "Available in English, German, French, and Italian."
     },
     {
-      "title": "Map Customization",
-      "body": "Customize your map display with different themes and overlays."
+      "title": "User Customization",
+      "body": "Change the app icon to suit your style and preferences."
     }
   ],
   "social": {
