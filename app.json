@@ -27,9 +27,10 @@
       "title": "User Customization",
       "body": "Change the app icon to suit your style and preferences."
     }
-  ] // ,
- //   "twitter": "https://twitter.com",
-   // "youtube": "https://www.youtube.com",
-   // "discord": "https://discord.gg"
-  }
+  ]/* ,
+  "social": {
+    "twitter": "https://twitter.com",
+    "youtube": "https://www.youtube.com",
+    "discord": "https://discord.gg"
+  } */
 }
