@@ -1,37 +1,31 @@
 {
-    "ads": false,
-    "free": true,
-    "name": "Glimmer.Ink",
-    "theme": "",
-    "contact": "info@glimmer.scan",
-    "stores": {
-      "apple": "https://apps.apple.com/",
+  "ads": false,
+  "free": true,
+  "name": "Glimmer.Ink",
+  "theme": "",
+  "contact": "info@glimmer.scan",
+  "stores": {
+    "apple": "https://apps.apple.com/"
+  },
+  "description": [
+    "is the ultimate companion app for Disney Lorcana Trading Card Game enthusiasts. Effortlessly scan and catalog your Disney Lorcana cards with our intuitive and powerful card recognition technology. Simply point your camera at a card, and let Glimmer.Ink do the rest! Join the Glimmer.Ink community and elevate your Disney Lorcana Trading Card Game experience!"
+  ],
+  "features": [
+    {
+      "title": "Instant Card Recognition",
+      "body": "Quickly identify and catalog your Disney Lorcana cards with just a scan."
     },
-    "description": [
-      "is the ultimate companion app for Disney Lorcana Trading Card Game enthusiasts. Effortlessly scan and catalog your Disney Lorcana cards with our intuitive and powerful card recognition technology. Simply point your camera at a card, and let Glimmer.Ink do the rest!
-      Join the Glimmer.Ink community and elevate your Disney Lorcana Trading Card Game experience!"
-    ],
-    "features": [
-      {
-        "title": "Instant Card Recognition",
-        "body": "Quickly identify and catalog your Disney Lorcana cards with just a scan."
-      },
-      {
-        "title": "Foil Card Detection",
-        "body": "Swipe left to mark your special foil cards and distinguish them in your collection."
-      },
-      {
-        "title": "Localized Support",
-        "body": "Available in English, German, French, and Italian."
-      },
-      {
-        "title": "User Customization",
-        "body": "Change the app icon to suit your style and preferences."
-      }
-    ],
-    "social": {
-      "twitter": "https://twitter.com",
-      "youtube": "https://www.youtube.com",
-      "discord": "https://discord.gg"
+    {
+      "title": "Foil Card Detection",
+      "body": "Swipe left to mark your special foil cards and distinguish them in your collection."
+    },
+    {
+      "title": "Localized Support",
+      "body": "Available in English, German, French, and Italian."
+    },
+    {
+      "title": "User Customization",
+      "body": "Change the app icon to suit your style and preferences."
     }
-  }
+  ]
+}
