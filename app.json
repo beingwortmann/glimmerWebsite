@@ -5,11 +5,10 @@
     "theme": "",
     "contact": "info@glimmer.scan",
     "stores": {
-      "apple": "https://apps.apple.com/",
+      "apple": "https://apps.apple.com/"
     },
     "description": [
-      "is the ultimate companion app for Disney Lorcana Trading Card Game enthusiasts. Effortlessly scan and catalog your Disney Lorcana cards with our intuitive and powerful card recognition technology. Simply point your camera at a card, and let Glimmer.Ink do the rest!
-      Join the Glimmer.Ink community and elevate your Disney Lorcana Trading Card Game experience!"
+      "is the ultimate companion app for Disney Lorcana Trading Card Game enthusiasts. Effortlessly scan and catalog your Disney Lorcana cards with our intuitive and powerful card recognition technology. Simply point your camera at a card, and let Glimmer.Ink do the rest! Join the Glimmer.Ink community and elevate your Disney Lorcana Trading Card Game experience!"
     ],
     "features": [
       {
@@ -35,3 +34,4 @@
       "discord": "https://discord.gg"
     }
   }
+  
